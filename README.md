@@ -1,6 +1,6 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
-[![Latest Stable Version](https://poser.pugx.org/cheprasov/php-redis-client/v/stable)](https://packagist.org/packages/cheprasov/php-redis-client)
-[![Total Downloads](https://poser.pugx.org/cheprasov/php-redis-client/downloads)](https://packagist.org/packages/cheprasov/php-redis-client)
+[![Latest Stable Version](https://poser.pugx.org/fabioflx/php-redis-client/v/stable)](https://packagist.org/packages/fabioflx/php-redis-client)
+[![Total Downloads](https://poser.pugx.org/fabioflx/php-redis-client/downloads)](https://packagist.org/packages/fabioflx/php-redis-client)
 # RedisClient v1.10.0 for PHP >= 5.5
 
 ## About
